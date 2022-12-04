@@ -1,0 +1,269 @@
+// 20221204220645
+// https://newsapi.org/v2/top-headlines?country=us&apiKey=44716dc0090842358e2183032af36072
+
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": null,
+      "title": "Georgia, Michigan, TCU, Ohio State chosen for College Football Playoff - ESPN",
+      "description": "Georgia, Michigan, TCU and Ohio State will play for the national championship after being chosen for the College Football Playoff.",
+      "url": "https://www.espn.com/college-football/story/_/id/35180211/georgia-michigan-tcu-ohio-state-chosen-college-football-playoff",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1204%2Fncf_playoff_reveal_1296x729.jpg",
+      "publishedAt": "2022-12-04T17:33:13Z",
+      "content": "Georgia, Michigan, TCU and Ohio State will play for the national championship after being chosen for the College Football Playoff on Sunday.\r\nAfter not playing in a conference championship game, the … [+4775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "France vs. Poland Highlights | 2022 FIFA World Cup | Round of 16 - FOX Soccer",
+      "description": "France and Poland squared off in the knockout stage of the 2022 FIFA World Cup. Poland and France both got multiple shots off early in the match. Olivier Gir...",
+      "url": "https://www.youtube.com/watch?v=UcnEc61SJ64",
+      "urlToImage": "https://i.ytimg.com/vi/UcnEc61SJ64/maxresdefault.jpg",
+      "publishedAt": "2022-12-04T17:15:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Akhtar Makoii, Arash Azizi, Alex Stambaugh",
+      "title": "Iran says hijab law is under review, as state media dismisses claims feared morality police has been abolished - CNN",
+      "description": "Iran's Attorney General Mohammad Jafar Montazeri said Thursday that Iran's parliament and judiciary are reviewing the country's mandatory hijab law, according to pro-reform outlet Entekhab.",
+      "url": "https://www.cnn.com/2022/12/04/middleeast/iran-hijab-law-under-review-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221124115640-02-iran-protests-un-human-rights.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-04T17:09:00Z",
+      "content": "Irans Attorney General Mohammad Jafar Montazeri said Thursday that Irans parliament and judiciary are reviewing the countrys mandatory hijab law, according to pro-reform outlet Entekhab.\r\nMontazeri w… [+3056 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": "Corinne Heller",
+      "title": "Keke Palmer's Boyfriend Darius Jackson Pays Tribute to Actress After Pregnancy Reveal - E! NEWS",
+      "description": "After Keke Palmer confirmed on Saturday Night Live that she is pregnant with her first child, her boyfriend Darius Jackson shared a sweet homage to her online.",
+      "url": "https://www.eonline.com/news/1356924/keke-palmers-boyfriend-darius-jackson-pays-tribute-to-actress-after-pregnancy-reveal",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022114/rs_1200x1200-221204082523-1200-keke-palmer-darius-jackson-instagram-cjh-120322.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2022-12-04T17:00:00Z",
+      "content": "Keke Palmer is feeling all the love after that pregnancy reveal.\r\nOn Dec. 3, about an hour after the Emmy winner announced during her Saturday Night Live hosting debut that she is pregnant with her f… [+846 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Top House Intel Republican condemns Trump’s calls to suspend Constitution over 2020 election - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3N1bmRheS10YWxrLXNob3dzLzM3NjEzMDgtdG9wLWhvdXNlLWludGVsLXJlcHVibGljYW4tY29uZGVtbnMtdHJ1bXBzLWNhbGxzLXRvLXN1c3BlbmQtY29uc3RpdHV0aW9uLW92ZXItMjAyMC1lbGVjdGlvbi_SAZcBaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zdW5kYXktdGFsay1zaG93cy8zNzYxMzA4LXRvcC1ob3VzZS1pbnRlbC1yZXB1YmxpY2FuLWNvbmRlbW5zLXRydW1wcy1jYWxscy10by1zdXNwZW5kLWNvbnN0aXR1dGlvbi1vdmVyLTIwMjAtZWxlY3Rpb24vYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-12-04T16:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Syria: Protesters storm governor's office in southern city of Sweida - BBC",
+      "description": "Protesters in the Druze-majority city of Sweida reportedly call for the overthrow of President Assad.",
+      "url": "https://www.bbc.com/news/world-middle-east-63852389",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6160/production/_127882942_mediaitem127882941.jpg",
+      "publishedAt": "2022-12-04T16:26:45Z",
+      "content": "A protester and a policeman have reportedly been killed during rare demonstrations in the southern Syrian city of Sweida.\r\nCrowds angry because of the worsening economic conditions in Syria stormed t… [+2142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Rebecca Rubin",
+      "title": "‘Black Panther: Wakanda Forever’ Tops Box Office for Fourth Weekend, ‘Violent Night’ Debuts at No. 2 - Variety",
+      "description": "Popular on Variety “Black Panther: Wakanda Forever” sleighed the muted competition, including Universal’s new holiday thriller “Violent Night,” to remain No. 1 at the box office. Now in its fourth weekend of release, the superhero sequel added $17.6 million f…",
+      "url": "https://variety.com/2022/film/box-office/wakanda-forever-box-office-fourth-weekend-violent-night-debuts-1235449388/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/12/violent-night-david-harbour-santa.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2022-12-04T16:22:00Z",
+      "content": "“Black Panther: Wakanda Forever” sleighed the muted competition, including Universal’s new holiday thriller “Violent Night,” to remain No. 1 at the box office. Now in its fourth weekend of release, t… [+2148 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ryan Gaydos",
+      "title": "Mike White leads Jets teammates into stadium with 'Mighty Ducks' jersey after players show support - Fox News",
+      "description": "New York Jets quarterback Mike White led some of his teammates into U.S. Bank Stadium with \"Mighty Ducks\" jersey on before their game against the Minnesota Vikings.",
+      "url": "https://www.foxnews.com/sports/mike-white-leads-jets-teammates-stadium-mighty-ducks-jersey-players-show-support",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Mike-White2.jpg",
+      "publishedAt": "2022-12-04T16:20:15Z",
+      "content": "New York Jets quarterback Mike White electrified fans last week when he led the team to a 31-10 victory over the Chicago Bears.\r\nOn Sunday, White led some of his teammates into U.S. Bank Stadium ahea… [+1826 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "David Browne",
+      "title": "The Future of Classic Rock Tours: One or Two Surviving Members…or None? - Rolling Stone",
+      "description": "From authorized tribute bands to new recruits, heritage rockers like the Allman Brothers and Lynyrd Skynyrd grapple with how to keep the music playing and profitable",
+      "url": "https://www.rollingstone.com/music/music-features/rock-band-tours-without-original-members-allman-brothers-1234637630/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/12/TNMRollingStone_FrontLine-3.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2022-12-04T16:04:13Z",
+      "content": "In the last few years, CJ Strock, a talent agent who worked with the later incarnation of the Allman Brothers Band, faced an unusual dilemma. As seen in catalog and merch sales, a market still existe… [+13421 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Joseph Cotterill",
+      "title": "ANC set to decide Cyril Ramaphosa's fate - Financial Times",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/c2b40509-b651-4f11-b270-9e57964de288",
+      "urlToImage": null,
+      "publishedAt": "2022-12-04T15:43:22Z",
+      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1496 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Zoe Sottile",
+      "title": "A new species of dinosaur might have dived like a duck to catch its prey - CNN",
+      "description": "A new study found evidence at least one species of dinosaur may have been an adept swimmer, diving into the water like a duck to hunt its prey.",
+      "url": "https://www.cnn.com/2022/12/04/world/diving-dinosaur-natovenator-scn-trnd/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202161228-natovenator-polydontus-swimming-reconstruction-illustration.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-04T15:28:00Z",
+      "content": "A new study found evidence at least one species of dinosaur may have been an adept swimmer, diving into the water like a duck to hunt its prey.\r\nThe study, published in Communications Biology on Dece… [+3809 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Anders Hagstrom",
+      "title": "Nancy Pelosi told Emmanuel Macron that she crushes a hotdog every day on Capitol Hill - Fox News",
+      "description": "House Speaker Nancy Pelosi revealed her habit of eating a hot dog every day on Capitol Hill in a conversation with French President Emmanuel Macron last week.",
+      "url": "https://www.foxnews.com/politics/nancy-pelosi-told-emmanuel-macron-she-crushes-hotdog-every-day-capitol-hill",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/PelosiSpeech.jpg",
+      "publishedAt": "2022-12-04T15:05:49Z",
+      "content": "House Speaker Nancy Pelosi revealed her habit of eating a hot dog in the House Democratic cloakroom every day to French President Emmanuel Macron last week.\r\nPelosi made the comment during a Friday s… [+3207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MMA Fighting"
+      },
+      "author": "Damon Martin",
+      "title": "Stephen ‘Wonderboy’ Thompson reveals what Kevin Holland said to him during UFC Orlando main event - MMA Fighting",
+      "description": "Stephen “Wonderboy” Thompson reveals all of the comments Kevin Holland made to him during their four-round battle at UFC Orlando.",
+      "url": "https://www.mmafighting.com/2022/12/4/23492292/stephen-wonderboy-thompson-reveals-what-kevin-holland-said-to-him-during-ufc-orlando-main-event",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/le0x1D4aHW9JgYTY-x2zIIymBFA=/0x10:4896x2573/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24261477/1446614012.jpg",
+      "publishedAt": "2022-12-04T15:00:00Z",
+      "content": "Stephen Wonderboy Thompson knew he had a fight on his hands in theUFC Orlando main event, but it was probably the first time he actually shared a conversation with his opponent mid-fight.\r\nFacing the… [+3043 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Russia will not export oil subject to Western price cap, deputy prime minister says - Reuters",
+      "description": "Russia, the world's second largest oil exporter, will not sell oil that is subject to a Western price cap even if it has to cut production, President Vladimir Putin's point man on energy said.",
+      "url": "https://www.reuters.com/business/energy/russia-mulls-banning-oil-supplies-subject-western-price-cap-2022-12-04/",
+      "urlToImage": "https://www.reuters.com/resizer/wIW4BAUZ8JpSIk9JfQ0n4tzQi2o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D6VENDNQH5JSDF57O4RPXNCPUQ.jpg",
+      "publishedAt": "2022-12-04T14:50:00Z",
+      "content": "MOSCOW, Dec 4 (Reuters) - Russia, the world's second largest oil exporter, will not sell oil that is subject to a Western price cap even if it has to cut production, President Vladimir Putin's point … [+2908 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Adam Bankhurst",
+      "title": "Fortnite Chapter 4 Season 1 Adds The Hulk, Geralt, Doom Slayer, and Next-Gen Unreal Engine 5 Features - IGN",
+      "description": "Fortnite Chapter 4 Season 1 has officially arrived and promises to add The Hulk, The Witcher's Geralt of Rivia, Doom's Doom Slayer, and next-gen graphics and features powered by Unreal Engine 5.1.",
+      "url": "https://www.ign.com/articles/fortnite-chapter-4-season-1-adds-the-hulk-geralt-doom-slayer-and-next-gen-unreal-engine-5-features",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/12/04/fortnite-1670162418532.png?width=1280",
+      "publishedAt": "2022-12-04T14:16:10Z",
+      "content": "Fortnite Chapter 4 Season 1 has officially arrived and promises to add The Hulk, The Witcher's Geralt of Rivia, Doom's Doom Slayer, and next-gen graphics and features powered by Unreal Engine 5.1.\r\nF… [+3166 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "OPEC+ keeps steady policy amid weakening economy, Russian oil cap - Reuters",
+      "description": "OPEC+ agreed to stick to its oil output targets at a meeting on Sunday as the oil markets struggle to assess the impact of a slowing Chinese economy on demand and a G7 price cap on Russian oil on supply.",
+      "url": "https://www.reuters.com/business/energy/opec-heading-no-policy-change-sunday-talks-sources-2022-12-04/",
+      "urlToImage": "https://www.reuters.com/resizer/Jizf4nOFVaBSfHM470SXNrQsshI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PSBP264OWBPC3E4LYJTEWN74SA.jpg",
+      "publishedAt": "2022-12-04T13:32:00Z",
+      "content": "LONDON/DUBAI, Dec 4 (Reuters) - OPEC+ agreed to stick to its oil output targets at a meeting on Sunday as the oil markets struggle to assess the impact of a slowing Chinese economy on demand and a G7… [+2386 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Mark Sherman",
+      "title": "Supreme Court weighs 'most important case' on democracy - The Associated Press - en Español",
+      "description": "WASHINGTON (AP) — The Supreme Court  is about to confront a new elections case, a Republican-led challenge  asking the justices for a novel ruling that could significantly increase the power of state lawmakers over elections for Congress and the presidency.",
+      "url": "https://apnews.com/article/us-supreme-court-north-carolina-legislature-50f99679939b5d69d321858066a94639",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/315af2d712d946b3a78d3f50245243f9/3000.webp",
+      "publishedAt": "2022-12-04T13:27:04Z",
+      "content": "WASHINGTON (AP) The Supreme Court is about to confront a new elections case, a Republican-led challenge asking the justices for a novel ruling that could significantly increase the power of state law… [+7593 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Indonesia evacuates villages under volcano threat - Reuters",
+      "description": "A volcano erupted in Indonesia, spewing a cloud of ash miles into the sky and forcing the evacuation of nearly 2,000 people. #News #Reuters #newsfeed #world ...",
+      "url": "https://www.youtube.com/watch?v=_yAAJWR504s",
+      "urlToImage": "https://i.ytimg.com/vi/_yAAJWR504s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgWShyMA8=&rs=AOn4CLDmKp9HteA7M8zIEPtpaKYMHBe8Cw",
+      "publishedAt": "2022-12-04T11:45:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ayelet Sheffey",
+      "title": "What happens if Supreme Court strikes down Biden's student-debt relief - Business Insider",
+      "description": "There might be another legal route for Biden's student-debt relief if lawsuits currently blocking the plan are successful.",
+      "url": "https://www.businessinsider.com/how-to-cancel-student-debt-use-higher-education-act-heroes-2022-11",
+      "urlToImage": "https://i.insider.com/63878702d346c10018948ebe?width=1200&format=jpeg",
+      "publishedAt": "2022-12-04T08:15:00Z",
+      "content": "Gloria Weiss, 64, is \"furious\" that student-loan forgiveness still hasn't reached her $31,000 balance.\r\nSince taking out Parent PLUS loans for her son in 2010 a type of student loan parents can take … [+6415 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jacob Shamsian",
+      "title": "Anna Sorokin: Sam Bankman-Fried media apology tour is scam - Business Insider",
+      "description": "Convicted scammer Anna Sorokin — AKA Anna Delvey — thinks the FTX founder is just trying to lay the groundwork for a legal defense.",
+      "url": "https://www.businessinsider.com/anna-sorokin-delvey-sbf-media-apology-tour-scam-2022-12",
+      "urlToImage": "https://i.insider.com/638a606ab4290800185d0536?width=1200&format=jpeg",
+      "publishedAt": "2022-12-04T08:00:00Z",
+      "content": "Convicted scammer Anna Sorokin thinks Sam Bankman-Fried's media apology tour is insincere garbage, she told Insider, believing he's trying to lay the groundwork for a legal defense over his role in F… [+4856 chars]"
+    }
+  ]
+}
