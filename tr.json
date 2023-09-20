@@ -1,0 +1,69 @@
+[
+    {
+        "id":1,
+        "name":"A Haber",
+        "url":"https://ythls.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8",
+        "logo":	"https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"
+    },
+    {
+        "id":2,
+        "name":"A Spor (1080p)",
+        "url":"https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8",
+        "logo":"https://upload.wikimedia.org/wikipedia/tr/thumb/e/e9/A_Spor_logosu.png/100px-A_Spor_logosu.png"
+    },
+    {
+        "id":3,
+        "name":"Kanal 7 (1080p)",
+        "url":"https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/200px-Kanal_7_2002-%3F_logosu.webp.png"
+    },
+    {
+        "id":4,
+        "name":"TRT 1 (1080p)",
+        "url":"https://d1u68oyra9spme.cloudfront.net/master.m3u8",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/200px-TRT_1_logo_%282021-%29.svg.png"
+    },
+    {
+        "id":5,
+        "name":"TRT Belgesel (720p)",
+        "url":"https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/230px-TRT_Belgesel_logo_%282019-%29.svg.png"
+    },
+    {
+        "id":6,
+        "name":"TRT Çocuk (720p)",
+        "url":"https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/250px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"
+    },
+    {
+        "id":7,
+        "name":"TV 8 (1080p)",
+        "url":"https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/150px-Tv8_Yeni_Logo.png"
+    },
+    {
+        "id":8,
+        "name":"Star TV (720p)",
+        "url":"https://dogus-live.daioncdn.net/startv/startv.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/145px-StarTV.svg.png"
+    },
+    {
+        "id":9,
+        "name":"Show TV (720p)",
+        "url":"https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/150px-Show_TV_logo.svg.png"
+    },
+    {
+        "id":10,
+        "name":"Kanal D (1080p)",
+        "url":"https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
+        "logo":"https://upload.wikimedia.org/wikipedia/tr/1/1c/KANALD_HD.png"
+    },
+    {
+        "id":11,
+        "name":"Fox Türkiye (720p)",
+        "url":"https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/120px-FOX_wordmark-red_2.svg.png"
+    }
+
+]
