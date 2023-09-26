@@ -76,6 +76,24 @@
         "name":"24 TV",
         "url":" https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
         "logo":"https://i.imgur.com/8FO41es.png"
+    },
+     {
+        "id":14,
+        "name":"TRT EBA Ilkokul",
+        "url":"https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+        "logo":"https://i.imgur.com/IUha5eQ.jpg"
+    },
+     {
+        "id":15,
+        "name":"TRT EBA Ortaokul",
+        "url":"https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+        "logo":"https://i.imgur.com/IUha5eQ.jpg"
+    },
+     {
+        "id":16,
+        "name":"TRT EBA Lise",
+        "url":"https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
+        "logo":"https://i.imgur.com/IUha5eQ.jpg"
     }
 
 
