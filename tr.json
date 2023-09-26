@@ -70,6 +70,15 @@
         "name":"Tarim TV (1080p)",
         "url":"https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8",
         "logo":"https://www.tarimtv.gov.tr/uploads/logo/logo-tarim-31FnQ2ZNL1.png"
+    },
+     {
+        "id":13,
+        "name":"24 TV",
+        "url":" https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
+        "logo":"https://i.imgur.com/8FO41es.png"
     }
+
+
+   
 
 ]
