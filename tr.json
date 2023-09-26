@@ -64,6 +64,18 @@
         "name":"Fox Türkiye (720p)",
         "url":"https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
         "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/120px-FOX_wordmark-red_2.svg.png"
+    },
+    {
+        "id":12,
+        "name":"Beyaz TV (720p)",
+        "url":"https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8",
+        "logo":"https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg"
+    },
+     {
+        "id":13,
+        "name":"Tarim TV (1080p)",
+        "url":"https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8",
+        "logo":"https://www.tarimtv.gov.tr/uploads/logo/logo-tarim-31FnQ2ZNL1.png"
     }
 
 ]
