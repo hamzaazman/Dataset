@@ -94,9 +94,12 @@
         "name":"TRT EBA Lise",
         "url":"https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
         "logo":"https://i.imgur.com/IUha5eQ.jpg"
+    },
+    {
+        "id":17,
+        "name":"TRT Müzik",
+        "url":"https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+        "logo":"https://i.imgur.com/JgUzRH8.png"
     }
-
-
-   
 
 ]
